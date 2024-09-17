@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App_sem3_s1_GeoQuiz_wx61</string>
+    <string name="question">¿Es Lima capital de Chile?</string>
+    <string name="si">Si</string>
+    <string name="no">No</string>
+    <string name="siguiente">Siguiente</string>
+</resources>
